@@ -1,0 +1,29 @@
+Model Metrics:
+
+Model: Lasso Regression
+
+Features:
+1. Neighborhood
+2. Property Type
+3. Room Type
+4. Bedrooms
+5. Bathrooms
+
+Parameters:
+- Regularization parameter (alpha): 0.01
+
+Hyperparameters:
+- Number of features: 5
+- Number of iterations: 1000
+
+Performance Metrics:
+- Mean Absolute Error (MAE): 174.29
+- Mean Squared Error (MSE): 248916.96
+- R-squared: 0.2837
+
+Model Coefficients:
+1. Neighborhood: 297.48
+2. Property Type: 85.30
+3. Room Type: -39.72
+4. Bedrooms: -9.42
+5. Bathrooms: 8.97
